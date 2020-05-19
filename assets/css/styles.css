@@ -1,0 +1,14 @@
+body {
+    background: url('../images/eb-background.jpg') 0 30%;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+h1 {
+    color: #ffffff;
+    background: rgba(0, 0, 0, .5);
+    padding: 1em;
+}
